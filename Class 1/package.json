@@ -1,0 +1,12 @@
+{
+  "name": "college-honors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app5.js",
+  "scripts": {
+    "start":"node --watch app5.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
